@@ -57,3 +57,38 @@ whitelist:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Site Author
+author:
+  name             : "Koichiro Den"
+  avatar           :
+  bio              :
+  location         : "Tokyo, Japan"
+  employer         :
+  googlescholar    :
+  email            : "den@klaipeden.com"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "lkpdn"
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  orcid            :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    :
+  steam            :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
