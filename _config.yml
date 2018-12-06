@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: lkpdn.github.io
-email: den.not.denmark@gmail.com
+title: Tech matters illustrated.
+email: den@klaipeden.com
 description: >-
-  lkpdn.github.io
+  personal blog.
 baseurl: ""
 url: "http://lkpdn.github.io"
 repository: "lkpdn/lkpdn.github.io"
