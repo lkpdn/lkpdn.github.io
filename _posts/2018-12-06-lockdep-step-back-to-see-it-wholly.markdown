@@ -1,7 +1,7 @@
 ---
 layout: single
 title: _Lockdep, step back to see it wholly._
-date: 2018-12-05 21:40:08 +0900
+date: 2018-12-06 21:41:33 +0900
 categories: linux
 ---
 You would often been confronted with various kinds of lockdep notations, or even have to choose an appropriate one to use, when you would have to dive into linux kernel for some reason. This post presents its overview, which I think is rarely illustrated as a whole. Note that I assume you have already read the [kernel doc](https://www.kernel.org/doc/Documentation/locking/lockdep-design.txt). Obviously it's indispensable material and the core concept is clearly explained.
